@@ -11,5 +11,7 @@
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+![image](https://github.com/user-attachments/assets/b33df18e-50b7-4814-b298-6bd5f0f12053)
+
 
  
