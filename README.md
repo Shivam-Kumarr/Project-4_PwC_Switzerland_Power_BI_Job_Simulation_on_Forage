@@ -1,4 +1,4 @@
-# Project-4_PwC_Switzerland_Power_BI_Job_Simulation_on_Forage
+# Project-4: PwC_Switzerland_Power_BI_Job_Simulation_on_Forage
  * Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
  * Demonstrated expertise in data visualization through the creation of Power BI
